@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <EMPLOYEE_ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="src/osb/resources/schemas/BN_ETradeWorkLocation_2705_P2P_SrcXsd_1.00.xsd">
+               xsi:noNamespaceSchemaLocation="d">
   <EMPLOYEE>
-    <PERSONID_EXT>000214088</PERSONID_EXT>
+    <PERSONID_EXT>sfsdfsf</PERSONID_EXT>
     <TYPE>NEW</TYPE>
     <EFFECTIVE_DATE>2011-12-10</EFFECTIVE_DATE>
     <ADDR_LINE1>àáâãäª</ADDR_LINE1>
     <ADDR_LINE2>ÇÅČ òóÍÎôõ </ADDR_LINE2>
     <ADDR_LINE3>ÙÚÛÜŮ</ADDR_LINE3>
     <ORT01>ß</ORT01>
-    <STATE>OR</STATE>
+    <STATE>sdf</STATE>
     <PSTLZ>97804</PSTLZ>
     <LAND1>US</LAND1>
   </EMPLOYEE>
